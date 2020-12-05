@@ -2,8 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-     Hey I'm aaron and shiba inu dogs rock<br>
-      check out the
+     !!!Hey I'm aaron and shiba inu dogs rock<br>
+      check out the thing
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
     <h1>Hi Carrie, this is my first Vue deployment!</h1>
