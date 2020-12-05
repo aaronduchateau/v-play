@@ -2,11 +2,11 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-     Hey I'm aaron and this is my first vue project, cool!<br>
+     Hey I'm aaron and shiba inu dogs rock<br>
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
-    <h1>TEST TEST TEST</h1>
+    <h1>Hi Carrie, this is my first Vue deployment!</h1>
     <ul>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
