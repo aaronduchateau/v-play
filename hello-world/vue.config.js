@@ -6,5 +6,5 @@ module.exports = {
     sourceMap: true
   },
 
-  assetsDir: 'gen-assets'
+  outputDir: 'output-test'
 }
